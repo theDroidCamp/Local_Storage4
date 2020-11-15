@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Local_Storage4</string>
+    <string name="login_page">Login</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
 </resources>

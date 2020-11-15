@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_padding">80dp</dimen>
+    <dimen name="login_paddingS">42dp</dimen>
+    <dimen name="email_margin">32dp</dimen>
+    <dimen name="password_margin">16dp</dimen>
+    <dimen name="button_margin">250dp</dimen>
+
+
+</resources>

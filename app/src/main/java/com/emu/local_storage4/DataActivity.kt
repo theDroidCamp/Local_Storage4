@@ -7,7 +7,7 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity : AppCompatActivity() {
+class DataActivity : AppCompatActivity() {
 
     lateinit var editTextName: EditText
     lateinit var editTextEmail: EditText
@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        editTextEmail = findViewById(R.id.editTextName)
+        editTextName = findViewById(R.id.editTextName)
         editTextEmail = findViewById(R.id.editTextEmail)
         editTextSchool = findViewById(R.id.editTextSchool)
 

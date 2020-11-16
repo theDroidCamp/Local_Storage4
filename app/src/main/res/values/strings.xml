@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Local_Storage4</string>
+    <string name="create_account">Create an account</string>
+    <string name="signUp_btn">Sign up</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="school_hint">School</string>
+    <string name="password_hint">Password</string>
 </resources>

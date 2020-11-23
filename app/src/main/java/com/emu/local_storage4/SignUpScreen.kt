@@ -62,7 +62,7 @@ class SignUpScreen : AppCompatActivity() {
         editor.putString("password", password.text.toString())
 
         editor.apply()
-//    val intent = Intent(this,LoginActivity::class.java)
+        val intent = Intent(this,LoginActivity::class.java)
         startActivity(intent)
         Toast.makeText(this, "Sign up Successful! Login.", Toast.LENGTH_SHORT).show()
     }

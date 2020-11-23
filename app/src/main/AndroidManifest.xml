@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".SignUpScreen">
- 226d00903eae31aba814107cb606f6dbb588bde8
+ 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
